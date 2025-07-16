@@ -54,7 +54,7 @@ class FiltersScreen extends ConsumerWidget {
             subtitle: Text(
               'Only include lactose-free meals.',
               style: Theme.of(context).textTheme.labelMedium!.copyWith(
-                color: Theme.of(context).colorScheme.onBackground,
+                color: Theme.of(context).colorScheme.onSurface,
               ),
             ),
             activeColor: Theme.of(context).colorScheme.tertiary,
