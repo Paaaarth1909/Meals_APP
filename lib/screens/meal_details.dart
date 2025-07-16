@@ -96,7 +96,7 @@ class MealDetailsScreen extends ConsumerWidget {
                   step,
                   textAlign: TextAlign.center,
                   style: Theme.of(context).textTheme.bodyMedium!.copyWith(
-                    color: Theme.of(context).colorScheme.onBackground,
+                    color: Theme.of(context).colorScheme.onSurface,
                   ),
                 ),
               ),
