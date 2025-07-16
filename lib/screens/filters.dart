@@ -48,7 +48,7 @@ class FiltersScreen extends ConsumerWidget {
             title: Text(
               'Lactose-free',
               style: Theme.of(context).textTheme.titleLarge!.copyWith(
-                color: Theme.of(context).colorScheme.onBackground,
+                color: Theme.of(context).colorScheme.onSurface,
               ),
             ),
             subtitle: Text(
